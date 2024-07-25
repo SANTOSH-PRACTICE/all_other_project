@@ -1,0 +1,2 @@
+module Comparable1366 {
+}

@@ -1,0 +1,2 @@
+module Multithreadding0007 {
+}
